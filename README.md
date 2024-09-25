@@ -4,6 +4,8 @@ Para mais informações sobre inteligência artificial, acesse [www.guilhermefav
 
 Este projeto utiliza agentes de IA para criar posts de blog otimizados para SEO sobre qualquer tópico. Ele aproveita a biblioteca CrewAI e os modelos de linguagem da OpenAI para planejar, escrever e editar artigos automaticamente.
 
+Para mais detalhes sobre a utilização deste código, veja sua utilização na prática: [vídeo demonstrativo no Youtube](https://youtu.be/emyRZqY1jpo)
+
 ## Guia de Início Rápido para o Google Colab
 
 1. Abra um novo notebook no Google Colab.
