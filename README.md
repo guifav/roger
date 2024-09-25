@@ -15,7 +15,7 @@ Para mais detalhes sobre a utilização deste código, veja sua utilização na 
    !pip install crewai==0.28.8 crewai_tools==0.1.6 langchain_community==0.0.29
    ```
 
-3. Copie e cole todo o código do script fornecido em uma célula do Colab caso não clique no botão do Colab no topo do arquivo "Roger_escritor_de_artigos_para_SEO".
+3. Copie e cole todo o código do script fornecido em uma célula do Colab caso não clique no botão do Colab no topo do arquivo "Roger_escritor_de_artigos_para_Blog.ipynb".
 
 4. Configure sua Chave de API da OpenAI:
    - Clique no ícone de "chave" no menu vertical à esquerda.
