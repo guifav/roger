@@ -24,7 +24,7 @@ A maneira mais fácil de usar o Roger é através do Google Colab:
    SERPER_API_KEY
    ```
 
-### Instalação Local
+### Instalação Local (se não quiser rodar no Google Colab)
 
 Para usar o Roger localmente:
 
