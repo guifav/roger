@@ -18,13 +18,10 @@ Roger é um poderoso gerador de conteúdo para blogs baseado em IA que cria arti
 A maneira mais fácil de usar o Roger é através do Google Colab:
 
 1. Abra o notebook no Google Colab clicando no botão "Open in Colab" no topo do notebook
-2. Execute a função de configuração para armazenar suas chaves API com segurança:
+2. Insira suas API_KEYs na aba correta:
    ```python
-   setup_api_keys()
-   ```
-3. Execute a função geradora principal:
-   ```python
-   run_blog_article_generator()
+   OPENAI_API_KEY
+   SERPER_API_KEY
    ```
 
 ### Instalação Local
